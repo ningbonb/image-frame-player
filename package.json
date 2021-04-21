@@ -1,6 +1,6 @@
 {
-  "name": "image-frame-play",
-  "version": "1.0.0",
+  "name": "image-frame-player",
+  "version": "1.0.1",
   "description": "序列帧播放器",
   "main": "lib/index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ningbonb/image-frame-play.git"
+    "url": "git+https://github.com/ningbonb/image-frame-player.git"
   },
   "keywords": [
     "序列帧",
@@ -21,7 +21,7 @@
   "author": "ningbo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ningbonb/image-frame-play/issues"
+    "url": "https://github.com/ningbonb/image-frame-player/issues"
   },
-  "homepage": "https://github.com/ningbonb/image-frame-play#readme"
+  "homepage": "https://github.com/ningbonb/image-frame-player#readme"
 }
