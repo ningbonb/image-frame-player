@@ -1,0 +1,27 @@
+{
+  "name": "image-frame-play",
+  "version": "1.0.0",
+  "description": "序列帧播放器",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ningbonb/image-frame-play.git"
+  },
+  "keywords": [
+    "序列帧",
+    "frame",
+    "canvas"
+  ],
+  "author": "ningbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ningbonb/image-frame-play/issues"
+  },
+  "homepage": "https://github.com/ningbonb/image-frame-play#readme"
+}
